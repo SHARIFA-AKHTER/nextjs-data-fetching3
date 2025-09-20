@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "iPhone 14 Pro ABC",
+      "category": "Smartphone",
+      "brand": "Apple",
+      "price": 999,
+      "image": "https://storage.yaknoviy.ua/images/productstores/4682/magnify/lazy/ppLfZ4Y9TMY9ZFV5vpMTIgQzJ8mBXtv2xP2KoRZR.webp"
+    },
+    {
+      "id": 2,
+      "product_name": "Galaxy S23 Ultra",
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "price": 1999,
+      "image": "https://m.media-amazon.com/images/I/71rjXl9tmJL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 3,
+      "product_name": "MacBook Air M2",
+      "category": "Laptop",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "https://www.pchouse.com.bd/image/cache/catalog/Apple/macbook-air-m2-chip-midnight-02-500x500-600x500h.png.webp"
+    },
+    {
+      "id": 4,
+      "product_name": "ThinkPad X1 Carbon",
+      "category": "Laptop",
+      "brand": "Lenovo",
+      "price": 1499,
+      "image": "https://sm.pcmag.com/pcmag_me/review/l/lenovo-thi/lenovo-thinkpad-x1-carbon-gen-12_zjhe.jpg"
+    },
+    {
+      "id": 5,
+      "product_name": "Sony WH-1000XM5",
+      "category": "Headphone",
+      "brand": "Sony",
+      "price": 399,
+      "image": "https://www.ryans.com/storage/products/main/sony-wh-1000xm5-silver-wireless-noise-cancelling-11735735371.webp"
+    },
+    {
+      "id": 6,
+      "product_name": "Apple Watch Series 8",
+      "category": "Smartwatch",
+      "brand": "Apple",
+      "price": 499,
+      "image": "https://diamu.com.bd/wp-content/uploads/2022/09/Apple-Watch-Series-8-45mm-Silver-Aluminum-Case-with-Solo-Loop-2.jpg"
+    }
+  ]
+}
